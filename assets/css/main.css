@@ -17,12 +17,17 @@
 		
 
 	}
-
-	
 .dj{
   font-size:100px;
 }
-
+#mydiv
+{
+    font-size:20px;
+}
+#mydiv a
+{
+    font-size:20px;
+}
 .typewriter h1 {
   color: #fff;
 
@@ -2929,6 +2934,7 @@
 		.wrapper.style1 {
 			background-color: #FFFFFF;
 			color: #404040;
+			
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
@@ -3890,12 +3896,12 @@
 		@media screen and (max-width: 360px) {
 			
 			#banner h1 {
-			font-size: 1.3em;
+			font-size: 1.4em;
 		
 		}	
             
 			#banner p {
-				font-size: 0.6em;
+				font-size: 1.0em;
 			}
 
 		}
